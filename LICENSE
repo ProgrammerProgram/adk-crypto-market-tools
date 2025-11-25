@@ -1,0 +1,37 @@
+Crypto Trading Agent - Combined License
+Copyright (c) 2025 ProgrammerProgram
+
+This project is distributed under the following two licenses:
+
+===============================================================================
+SECTION 1 — CUSTOM RESTRICTED LICENSE
+===============================================================================
+
+You are permitted to:
+- Use the software for personal, educational, and experimental purposes
+- Run and test the software
+- View the source code for learning
+- Modify or create derivative works only inside the same repository or local copy
+  that you downloaded or cloned
+
+You are NOT permitted to:
+- Redistribute or publish original or modified versions
+- Remove copyright or license notices
+
+By using this software, you agree to the terms above.
+
+===============================================================================
+SECTION 2 — APACHE LICENSE, VERSION 2.0
+===============================================================================
+
+Portions of this project are:
+Copyright 2025 Google LLC.
+Licensed under the Apache License, Version 2.0 (the "License").
+
+Apache License 2.0 — Full Terms:
+https://www.apache.org/licenses/LICENSE-2.0
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION:
+See the full license text at the link above.
+
+END OF COMBINED LICENSE FILE
